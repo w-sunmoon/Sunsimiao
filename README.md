@@ -9,7 +9,8 @@
 </p> 
 
 <div align="center">
-
+[![GitHub license](https://img.shields.io/github/license/X-D-Lab/Sunsimiao
+)](https://github.com/X-D-Lab/Sunsimiao/blob/main/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/thomas-yanxin/Sunsimiao)](https://github.com/thomas-yanxin/Sunsimiao/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/thomas-yanxin/Sunsimiao)](https://github.com/thomas-yanxin/Sunsimiao/fork)
 [![GitHub Contributors](https://img.shields.io/github/contributors/thomas-yanxin/Sunsimiao)](https://github.com/thomas-yanxin/Sunsimiao/graphs/contributors)  
