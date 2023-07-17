@@ -9,11 +9,11 @@
 </p> 
 
 <div align="center">
-[![GitHub license](https://img.shields.io/github/license/X-D-Lab/Sunsimiao
-)](https://github.com/X-D-Lab/Sunsimiao/blob/main/LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/thomas-yanxin/Sunsimiao)](https://github.com/thomas-yanxin/Sunsimiao/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/thomas-yanxin/Sunsimiao)](https://github.com/thomas-yanxin/Sunsimiao/fork)
-[![GitHub Contributors](https://img.shields.io/github/contributors/thomas-yanxin/Sunsimiao)](https://github.com/thomas-yanxin/Sunsimiao/graphs/contributors)  
+
+[![GitHub LICENSE](https://img.shields.io/github/license/X-D-Lab/Sunsimiao)](https://github.com/X-D-Lab/Sunsimiao/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/X-D-Lab/Sunsimiao)](https://github.com/X-D-Lab/Sunsimiao/blob/main/LICENSE)
+[![GitHub Forks](https://img.shields.io/github/forks/X-D-Lab/Sunsimiao)](https://github.com/X-D-Lab/Sunsimiao/fork)
+[![GitHub Contributors](https://img.shields.io/github/contributors/X-D-Lab/Sunsimiao)](https://github.com/X-D-Lab/Sunsimiao/graphs/contributors)  
 **[中文](README_CN.md) | [English](README_EN.md)**
 </div>
 <div align=center><img width = '400' height ='400' src ="./image/sunsimiao.png"/></div>  
@@ -91,6 +91,8 @@ print(result)
 </a>  
 
 ### 免责申明
+
+本仓库所有开源代码及模型均遵循GPL-3.0许可认证. 开源模型可能存在以下局限. 欢迎商业交流与合作!
 
 1. **孙思邈中文医疗大模型**存在固有的局限性, 可能产生错误的、有害的、冒犯性的或其他不良的输出. 用户在关键或高风险场景中应谨慎行事, 不要使用这些模型作为最终决策参考, 以免导致人身伤害、财产损失或重大损失. 
 
