@@ -69,7 +69,16 @@ print(result)
 
 ### 致谢
 
-本项目由**华东理工大学 薛栋课题组**发起, 并受到以下项目及平台的大力支持, 在此表示感谢!
+## 👨‍💻 研发团队
+
+本项目由**华东理工大学 X-D Lab**课题组发起, 
+| 主要分工 | 参与同学 |
+| :----: | :---- |
+| 模型训练 | [颜鑫](https://github.com/thomas-yanxin)、[王明](https://github.com/w-sunmoon) |
+| 模型测试 |  |
+| 数据构建 |  |
+
+同时，受到以下项目及平台的大力支持, 在此表示感谢!
 1. [LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning): 提供微调代码
 2. [OpenI启智社区](https://openi.pcl.ac.cn/): 提供模型训练算力
 3. [魔搭ModelScope](https://modelscope.cn/home): 提供训练思路和模型存储
