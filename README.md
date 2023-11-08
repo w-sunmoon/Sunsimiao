@@ -6,6 +6,7 @@
 <a href="https://huggingface.co/thomas-yanxin/Sunsimiao-01M-lora"><img src="https://img.shields.io/badge/HuggingFace-yellow" alt="HuggingFace"></a>
 <a href="https://modelscope.cn/organization/X-D-Lab"><img src="https://img.shields.io/badge/ModelScope-blueviolet" alt="modelscope"></a>
 <a href="https://openi.pcl.ac.cn/Learning-Develop-Union/Sunsimiao"><img src="https://img.shields.io/badge/-OpenI-337AFF" alt="OpenI"></a>
+<a href="https://wisemodel.cn/models/X-D%20Lab/Sunsimiao"><img src="https://img.shields.io/badge/wisemodel-561253" alt="wisemodel"></a>
 </p> 
 
 <div align="center">
